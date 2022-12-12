@@ -36,10 +36,7 @@ img{
 }
 .h1tag{
   text-decoration: none;
-  color: white;
-
-}
-h1{
+  color: #FFF;
   max-width: 300px;
   color: white;
   font-style: none ;
@@ -56,8 +53,8 @@ button,button:visited{
   font-family: 'Lato' , sans-serif;
 }
 button:hover{
-  background-color: ;
-  transition: ;
+  background-color: #7743DA;
+  transition: 0.55s ;
   cursor: pointer;
-  color: ;
+  color: white;
 }
