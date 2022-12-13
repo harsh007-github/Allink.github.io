@@ -19,8 +19,8 @@ z-index: -1;
 
 }
 img{
-  width: 300px;
-  height: 300px;
+  width: 225px;
+  height: 225px;
   border-radius: 50%;
 }
 .links{
@@ -47,7 +47,7 @@ button,button:visited{
   background-color: #DDA0DD;
   color: #1d1160 ;
   box-shadow: 4px 4px #720e9e;
-  width: 200px;
+  width: 250px;
   padding: 0.3rem ;
   border: none;
   font-family: 'Lato' , sans-serif;
