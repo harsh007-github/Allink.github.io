@@ -16,7 +16,7 @@ z-index: -1;
     flex-direction: column;
     align-items: center;
 }
-img{
+.My_photo{
   width: 130px;
   height: 130px;
   border-radius: 50%;
@@ -58,4 +58,15 @@ button:hover{
   transition: 0.59s ;
   cursor: pointer;
   color: white;
+}
+a img{
+  display: inline-block;
+  border-radius: 50%;
+  width: 45px;
+  length: 45px;
+}
+span
+{
+  margin-top: 2px;
+  float: left;
 }
