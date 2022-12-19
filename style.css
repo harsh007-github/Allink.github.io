@@ -3,7 +3,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 body{
-/* background: url(Background_image.jpg); */
 background-color: rgba(18,19,18,255);
 background-repeat: no-repeat;
 background-position: center;
@@ -16,9 +15,6 @@ z-index: -1;
     display: flex;
     flex-direction: column;
     align-items: center;
-}
-.lower-content{
-
 }
 img{
   width: 130px;
